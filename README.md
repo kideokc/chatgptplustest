@@ -1,1 +1,1 @@
-# chatgptplustest
+# chatGPT plus
